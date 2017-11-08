@@ -64,5 +64,8 @@
             "replace": false,
             "ignore-duplicates": true
         }
+    },
+    "require-dev": {
+        "geerlingguy/drupal-vm": "~4.3"
     }
 }
